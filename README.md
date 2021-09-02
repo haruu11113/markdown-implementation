@@ -30,8 +30,8 @@
 
 |    HTML      |  \<h1>bar\</h1> ~ \<h6>bar\</h6> | \<em>          | \<hr>       |  \<code>bar\</code>                | \<blockquote> \<p>bar\<p> \<blockquote>          | \<ul>\<li> Foo \</li>\</ul>      |
 |:--           |:--:                              |:--:            |:--:         |:--:                                |:--:                                              |:--:                              |
-|    Syntax    |  # bar ~ ###### bar              | \**bar\**        | ****        |  4 space bar                       | > bar                                            | - Foo                            |
-|    Designs   |test                              |test            |test         |test                                |test                                              |test                              |
+|    Syntax    |  # bar ~ ###### bar              | \**bar\**      | ****        |  4 space bar                       | > bar                                            | - Foo                            |
+|    Designs   |                                  |                |             |                                    |                                                  |                                  |
 |Markdown 1.0.1|test                              |test            |test         |test                                |test                                              |test                              |
 |CommonMark    |test                              |test            |test         |test                                |test                                              |test                              |
 |gfm 0.29-gfm  |test                              |test            |test         |test                                |test                                              |test                              |
