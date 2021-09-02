@@ -28,6 +28,7 @@
 - (Last Update: 1 Dec 2019)[php Markdown Extra](https://github.com/michelf/php-markdown) (Version 1.9.0)
 - (Last Update: 16 Mar 2016)[MultiMarkdown](https://fletcherpenney.net/multimarkdown/) (Version 5.2.0)
 
+### Syntax table
 |    HTML      |  \<h1>bar\</h1> ~ \<h6>bar\</h6> | \<em>          | \<hr>       |  \<code>bar\</code>                | \<blockquote> \<p>bar\<p> \<blockquote>          | \<ul>\<li> Foo \</li>\</ul>      |
 |:--           |:--:                              |:--:            |:--:         |:--:                                |:--:                                              |:--:                              |
 |    Syntax    |  # bar ~ ###### bar              | \*\*bar\*\*      | ****        |  4 space bar                       | > bar                                            | - Foo                            |
