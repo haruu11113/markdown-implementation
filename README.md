@@ -23,7 +23,7 @@
 
 ## Designs
 - (Last Update: 17 Dec 2004) [JOHN GRUBER's blog](https://daringfireball.net/projects/markdown/) (Version 1.0.1)
-- [CommonMark](https://commonmark.org)
+- (Last update: 19 Jun 2021) [CommonMark](https://commonmark.org) (Version 0.30)
 - (Last Update: 06 Apr 2019) [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) (Version 0.29-gfm)
 - (Last Update: 01 Dec 2019) [php Markdown Extra](https://github.com/michelf/php-markdown) (Version 1.9.0)
 - (Last Update: 16 Mar 2016) [MultiMarkdown](https://fletcherpenney.net/multimarkdown/) (Version 5.2.0)
