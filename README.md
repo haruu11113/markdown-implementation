@@ -31,15 +31,15 @@
 ### Syntax table
 |    HTML      |  \<h1>bar\</h1> ~ \<h6>bar\</h6> | \<em>          | \<hr>       |  \<code>bar\</code>                | \<blockquote> \<p>bar\<p> \<blockquote>          | \<ul>\<li> Foo \</li>\</ul>      |
 |:--           |:--:                              |:--:            |:--:         |:--:                                |:--:                                              |:--:                              |
-|    Syntax    |  # bar ~ ###### bar              | \*\*bar\*\*      | ****        |  4 space bar                       | > bar                                            | - Foo                            |
+|    Syntax    |# bar ~ ###### bar                | \*\*bar\*\*    | ****        |  4 space bar                       | > bar                                            | - Foo                            |
 |    Designs   |                                  |                |             |                                    |                                                  |                                  |
-|Markdown 1.0.1|test                              |test            |test         |test                                |test                                              |test                              |
-|CommonMark    |test                              |test            |test         |test                                |test                                              |test                              |
-|gfm 0.29-gfm  |test                              |test            |test         |test                                |test                                              |test                              |
-|    Name      |test                              |test            |test         |test                                |test                                              |test                              |
-|    Name      |test                              |test            |test         |test                                |test                                              |test                              |
-|    Name      |test                              |test            |test         |test                                |test                                              |test                              |
-|    Name      |test                              |test            |test         |test                                |test                                              |test                              |
+|Markdown 1.0.1|                                  |                |             |                                    |                                                  |                                  |
+|CommonMark    |                                  |                |             |                                    |                                                  |                                  |
+|gfm 0.29-gfm  |                                  |                |             |                                    |                                                  |                                  |
+|    Name      |                                  |                |             |                                    |                                                  |                                  |
+|    Name      |                                  |                |             |                                    |                                                  |                                  |
+|    Name      |                                  |                |             |                                    |                                                  |                                  |
+|    Name      |                                  |                |             |                                    |                                                  |                                  |
 
 ## History
 [wikipedia](https://en.wikipedia.org/wiki/Markdown#History)
